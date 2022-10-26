@@ -330,7 +330,7 @@ h6.experience-4{
     .grid{
 
         grid-template-columns: 1fr;
-        width: 21.5rem;
+        width: 22.3rem;
     }
 
     .grid:nth-child(1){
