@@ -5,7 +5,7 @@
     margin: 0 auto;
     /* border: 1px solid rgb(214, 12, 12); */
     background-color:  hsl(210, 46%, 95%);
-    gap: 1.2rem;
+    gap: 1.6rem;
 
     /* Grid styling */
 
@@ -324,13 +324,13 @@ h6.experience-4{
 
         width: 100vw;
         height: 190vh;
-        padding-left: 1rem;
+        padding-left: .5rem;
     }
 
     .grid{
 
         grid-template-columns: 1fr;
-        width: 22rem;
+        width: 20rem;
     }
 
     .grid:nth-child(1){
